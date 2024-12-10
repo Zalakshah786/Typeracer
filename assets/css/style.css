@@ -1,3 +1,4 @@
+
 /* fonts */
 @import url("https://fonts.googleapis.com/css2?family=Alegreya:wght@400;700&family=Nunito:wght@400;700&display=swap");
 
@@ -39,4 +40,14 @@ header {
 #results-area p {
     font-size: 1.1rem;
     margin-bottom: 5px;
+}
+
+/* typing feedback */
+
+.correct {
+    color: blue;
+}
+
+.incorrect {
+    color: red;
 }
